@@ -1,5 +1,5 @@
 ---
-Checks:          '-*'
+Checks:          '-*,bugprone-*,cppcoreguidelines-*,modernize-*,concurrency-*'
 WarningsAsErrors: ''
 HeaderFilterRegex: ''
 AnalyzeTemporaryDtors: false
